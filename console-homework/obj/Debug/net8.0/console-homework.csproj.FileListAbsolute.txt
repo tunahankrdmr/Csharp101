@@ -1,0 +1,15 @@
+C:\Users\BMK\OneDrive\Masaüstü\Pratikler\console-homework\bin\Debug\net8.0\console-homework.exe
+C:\Users\BMK\OneDrive\Masaüstü\Pratikler\console-homework\bin\Debug\net8.0\console-homework.deps.json
+C:\Users\BMK\OneDrive\Masaüstü\Pratikler\console-homework\bin\Debug\net8.0\console-homework.runtimeconfig.json
+C:\Users\BMK\OneDrive\Masaüstü\Pratikler\console-homework\bin\Debug\net8.0\console-homework.dll
+C:\Users\BMK\OneDrive\Masaüstü\Pratikler\console-homework\bin\Debug\net8.0\console-homework.pdb
+C:\Users\BMK\OneDrive\Masaüstü\Pratikler\console-homework\obj\Debug\net8.0\console-homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BMK\OneDrive\Masaüstü\Pratikler\console-homework\obj\Debug\net8.0\console-homework.AssemblyInfoInputs.cache
+C:\Users\BMK\OneDrive\Masaüstü\Pratikler\console-homework\obj\Debug\net8.0\console-homework.AssemblyInfo.cs
+C:\Users\BMK\OneDrive\Masaüstü\Pratikler\console-homework\obj\Debug\net8.0\console-homework.csproj.CoreCompileInputs.cache
+C:\Users\BMK\OneDrive\Masaüstü\Pratikler\console-homework\obj\Debug\net8.0\console-homework.sourcelink.json
+C:\Users\BMK\OneDrive\Masaüstü\Pratikler\console-homework\obj\Debug\net8.0\console-homework.dll
+C:\Users\BMK\OneDrive\Masaüstü\Pratikler\console-homework\obj\Debug\net8.0\refint\console-homework.dll
+C:\Users\BMK\OneDrive\Masaüstü\Pratikler\console-homework\obj\Debug\net8.0\console-homework.pdb
+C:\Users\BMK\OneDrive\Masaüstü\Pratikler\console-homework\obj\Debug\net8.0\console-homework.genruntimeconfig.cache
+C:\Users\BMK\OneDrive\Masaüstü\Pratikler\console-homework\obj\Debug\net8.0\ref\console-homework.dll
